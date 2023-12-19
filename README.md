@@ -8,9 +8,9 @@ The challenge was to re-create my portfolio site, from the Module 2 Challenge - 
 
 The original portfolio was guided by the Demo provided in the following screenshots:
 
-![Demo1](./images/Screenshot1.png)
+![Demo1](/images/Screenshot1.png)
 
-![Demo2](./images/Screenshot2.png)
+![Demo2](/images/Screenshot2.png)
 
 The further version of my portfolio, for this challenge, was required to feature the following:
 
