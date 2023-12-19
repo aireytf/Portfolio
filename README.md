@@ -15,9 +15,9 @@ The original portfolio was guided by the Demo provided in the following screensh
 The further version of my portfolio, for this challenge, was required to feature the following:
 
 A Navigation bar:
-- A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
-- Include links that are applicable to your portfolio.
-- Links should navigate to the appropriate sections
+- A navigation menu at the top.
+- Include links that are applicable to my portfolio.
+- Links should navigate to the appropriate sections.
 
 A hero section:
 - A jumbotron featuring my picture, my name, and any other info.
@@ -25,21 +25,23 @@ A hero section:
 A work section:
 - A section displaying my work in grid.
 - Use bootstrap cards for each project.
-The description should give a brief overview of the work.
-Each project will eventually link to your class project work!
+- The description should give a brief overview of the work.
+- Each project links to my class project work.
 
 A skills section
--List out the skills you expect to learn from the bootcamp.
+- List out the skills I expect to learn from the bootcamp.
+- For this section, I have implemented a custom BootScrap lis, to show how I would display the number of professional testimonials I have for very skills. This will, of course, be updated with content in the future, as I progress with this course and as a developer.
 
 An about / contact section.
--An "About Me" section in the same row.
+- An "About Me" section with Contact links in the same row.
 
 A footer section.
--All hyperlinks should have a hover effect.
--All buttons should display a box shadow upon hover.
 
+N.B: 
+- All hyperlinks should have a hover effect.
+- All buttons should display a box shadow upon hover.
 
-I have, also, included a CV section in my header (though this was beyond the minimum required features for this challenge). I will include a link to my CV, as I update this portfolio overtime. 
+I, also, chose to include the CV section (from my first portfolio) in my header (though this was beyond the minimum required features for this challenge). I will include a link to my CV, as I update this portfolio overtime. 
 
 ## Table of Contents 
 
