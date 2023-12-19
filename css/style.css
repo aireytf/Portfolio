@@ -71,3 +71,26 @@
 .skills .list-group {
     border-radius: 10px;
 }
+
+/* Styling About Me & Contact Section (on same row) */
+
+.about-contact {
+    padding: 70px;
+}
+
+.about-contact .container {
+    display: flex;
+    flex-direction: row;
+    font-size: 17px;
+}
+
+.contact {
+  min-width: 25%;
+}
+
+.contact a {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color: purple;
+}
