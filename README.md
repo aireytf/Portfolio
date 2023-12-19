@@ -18,22 +18,27 @@ A Navigation bar:
 - A navigation menu at the top.
 - Include links that are applicable to my portfolio.
 - Links should navigate to the appropriate sections.
+  
 
 A hero section:
 - A jumbotron featuring my picture, my name, and any other info.
+  
 
 A work section:
 - A section displaying my work in grid.
 - Use bootstrap cards for each project.
 - The description should give a brief overview of the work.
 - Each project links to my class project work.
+  
 
 A skills section
-- List out the skills I expect to learn from the bootcamp.
-- For this section, I have implemented a custom BootScrap lis, to show how I would display the number of professional testimonials I have for very skills. This will, of course, be updated with content in the future, as I progress with this course and as a developer.
+- Listing out the skills I expect to learn from the bootcamp.
+- For this section, I have implemented a custom BootScrap list, to show how I would display the number of professional testimonials I have for very skills. This will, of course, be updated with content in the future, as I progress with this course and as a developer.
+
 
 An about / contact section.
 - An "About Me" section with Contact links in the same row.
+
 
 A footer section.
 
