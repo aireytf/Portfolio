@@ -94,3 +94,17 @@
     text-decoration: none;
     color: purple;
 }
+
+
+/* Styling Footer */
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: rgba(169, 165, 165, 0.3);
+    background-color: #2e2e2e;
+  }
+  
+footer p {
+    font-size: 15px;
+    margin: 0;
+  }
