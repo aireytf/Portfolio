@@ -60,7 +60,7 @@ To view my work on this challenge, you can review the sections of this repositor
 
 ## Credits
 
-I drew on the framework of my first portfolio and used BootStrap code templates to (as per instructions for this challenge).
+I drew on the framework of my first portfolio and used BootStrap code templates (as per instructions for this challenge).
 
 ## License
 
