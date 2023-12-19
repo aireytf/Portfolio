@@ -72,6 +72,10 @@
     border-radius: 10px;
 }
 
+.skills h1 {
+    color: white;
+}
+
 /* Styling About Me & Contact Section (on same row) */
 
 .about-contact {
