@@ -51,7 +51,7 @@ I, also, chose to include the CV section (from my first portfolio) in my header 
 
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Bootstrap-Portfolio/
+To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Bootstrap-Portfolio-C3/
 
 ## Credits
 
