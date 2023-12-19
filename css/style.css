@@ -46,3 +46,18 @@
 .device-container img {
   padding: 20px;
 }
+
+/* Styling Work Section */
+
+.card {
+    position: relative;
+    margin: 20px;
+    border: 5px solid rgb(78, 42, 128); 
+
+}
+
+.card:hover {
+    box-shadow: 15px 15px 10px 0px rgba(0, 0, 0, 1);
+    border: 5px solid rgb(23, 18, 62);
+    transition: all 0.5s ease-in-out;
+}
