@@ -24,3 +24,25 @@
 .nav-item {
     margin: 0px 15px;
 }
+
+/* Styling Hero Section Jumbotron  */
+
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+  }
+
+.jumbotron .device-container {
+  max-width: 325px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.device-container img {
+  padding: 20px;
+}
